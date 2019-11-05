@@ -1,0 +1,16 @@
+{
+  "name": "demo-json-data",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "next": "^9.1.2",
+    "react": "^16.11.0",
+    "react-dom": "^16.11.0"
+  },
+  "scripts": {
+    "dev": "next",
+    "static": "next build && next export"
+  }
+}
